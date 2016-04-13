@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum45niebuoft_0385.png"; bbox 0 0 1800 3126; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 317 977 1370 1050">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 317 977 1370 1050">
+     <span class='ocr_line' id='line_1_1' title="bbox 317 977 1370 1050; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 317 978 741 1050; x_wconf 89' lang='lat' dir='ltr'><strong>NICOLAI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 817 977 1370 1048; x_wconf 88' lang='lat' dir='ltr'><strong>ALEMANNI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 116 1291 1640 1374">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 116 1291 1640 1374">
+     <span class='ocr_line' id='line_1_2' title="bbox 116 1291 1640 1374; baseline 0 -22"><span class='ocrx_word' id='word_1_3' title='bbox 116 1293 871 1374; x_wconf 76' lang='lat' dir='ltr'><strong>HISTORIAM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 956 1291 1640 1352; x_wconf 84' lang='lat' dir='ltr'><strong>ARCANAM-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 562 1461 1130 1512">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 562 1461 1130 1512">
+     <span class='ocr_line' id='line_1_3' title="bbox 562 1461 1130 1512; baseline -0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 562 1461 1130 1512; x_wconf 88' lang='lat' dir='ltr'>PROCOPII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 457 1642 1249 1684">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 457 1642 1249 1684">
+     <span class='ocr_line' id='line_1_4' title="bbox 457 1642 1249 1684; baseline 0.005 -4"><span class='ocrx_word' id='word_1_6' title='bbox 457 1643 833 1681; x_wconf 85' lang='grc' dir='ltr'><strong>ΝΝΝΝΝΝΝ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 852 1642 1249 1684; x_wconf 86' lang='lat' dir='ltr'><strong>STORICAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 716 1922 984 1929">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 716 1922 984 1929">
+     <span class='ocr_line' id='line_1_5' title="bbox 716 1922 984 1929; baseline 0.007 -2"><span class='ocrx_word' id='word_1_8' title='bbox 716 1922 984 1929; x_wconf 73' lang='lat'><strong>———</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
